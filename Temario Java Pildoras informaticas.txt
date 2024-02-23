@@ -1,0 +1,34 @@
+PILDORESINFORMATICAS
+
+
+Temario Parte 1
+
+- Descarga e instalación de Eclipse
+- Introducción a Java
+- Estructuras principales del lenguaje
+- Objetos y clases
+- Herencia
+- Clases internas e interfaces
+- Programación de gráficos
+- Eventos
+- Componentes Swing
+- Aplicaciones y Applets
+- Tratamientos de errores (excepciones) y depuración
+- Programación genérica
+- Colecciones
+- Programación multihilo (multithreading)
+
+Temario Parte 2
+
+- Programación con archivos
+- XML
+- Programación para redes
+- Programación para BBDD
+- Programación cliente-servidor (objetos distribuidos)
+- Swing avanzado
+- AWT Avanzado
+- JavaBeans
+- Seguridad
+- Programación internacional.
+- Métodos nativos
+- Anotaciones
